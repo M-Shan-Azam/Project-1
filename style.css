@@ -1,0 +1,25 @@
+h1 {
+    font-size: 60px;
+    color:aqua;
+    border-style: ridge;
+    border-width: 10pt;
+    border-radius: 20px;
+    text-shadow: 0px 11px 0px rgba(0, 0, 0, 0.5);
+
+
+}
+h2{
+    color: darkgray;
+}
+
+h3{
+    color: beige;
+}
+
+p{
+    color: azure;
+
+}
+td{
+    color: aliceblue;
+}
